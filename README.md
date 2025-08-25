@@ -22,8 +22,8 @@ End the program.
 ## Program:
 ```
 #Program to find the rank of a matrix.
-#Developed by: RAAGAVI R M
-#RegisterNumber: 212224220074
+#Developed by: MUKESH D
+#RegisterNumber: 212224040204
 import numpy as np
 A = [[3,2,5],[1,1,2],[3,3,6]]
 B = np.linalg.matrix_rank(A)
