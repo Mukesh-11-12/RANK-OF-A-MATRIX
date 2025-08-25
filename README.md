@@ -30,7 +30,8 @@ B = np.linalg.matrix_rank(A)
 print(B)
 ```
 ## Output:
-<img width="344" height="203" alt="Screenshot 2025-08-20 081809" src="https://github.com/user-attachments/assets/ebecf225-1008-4e3b-b8e8-c91fddfca1a8" />
+<img width="1897" height="1025" alt="image" src="https://github.com/user-attachments/assets/66df76dd-8dfc-43c7-b015-b76d75dd1e87" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
